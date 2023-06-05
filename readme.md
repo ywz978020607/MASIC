@@ -1,4 +1,6 @@
-# Project for MASIC
+# MASIC: Deep Mask Stereo Image Compression
+
+The official Repo of paper [MASIC: Deep Mask Stereo Image Compression](https://ieeexplore.ieee.org/abstract/document/10061473/) (TCSVT 2023)
 
 ## Palace Datasets
 Palace: https://drive.google.com/file/d/1X6w7P8EEo7RBX7Ev9NTuYPnIxIoM8AJX/view?usp=sharing
